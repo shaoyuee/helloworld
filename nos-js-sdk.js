@@ -1,3 +1,3 @@
 function Uploader(options){
-	consloe.log('shao')
+	consloe.log('shao yue')
 }
