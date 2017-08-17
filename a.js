@@ -1,3 +1,4 @@
 function Uploader(options){
-	consloe.log('shao yue e')
+	console.log('shao yue e');
+    console.log('hello');
 }
